@@ -28,7 +28,7 @@ Gaarsiiye is an ecommerce website where users can shop for various products acro
 
 ## Demo
 
-You can view a live demo of the website [here](https://maahirmaare.github.io/Gaarsiiye-Ecommerce/) (replace "https://maahirmaare.github.io/Gaarsiiye-Ecommerce/" with the actual live demo link).
+You can view a live demo of the website [here](https://maahirmaare.github.io/Gaarsiiye-Ecommerce/) (replace "#" with the actual live demo link).
 
 ## Contact
 
