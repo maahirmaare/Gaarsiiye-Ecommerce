@@ -1,7 +1,3 @@
-Sure, here's a simplified version of your README for the Gaarsiiye Ecommerce Website:
-
----
-
 # Gaarsiiye Ecommerce Website
 
 This repository contains the frontend code for the Gaarsiiye Ecommerce Website.
@@ -44,6 +40,3 @@ For any inquiries or support, you can reach out to Gaarsiiye Ecommerce at:
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to adjust and expand this README as needed!
